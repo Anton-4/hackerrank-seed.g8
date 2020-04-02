@@ -1,7 +1,7 @@
 This is a [Giter8][g8] template for Scala.
 
 ```
-sbt new scala/scala-seed.g8
+sbt new Anton-4/hackerrank-seed.g8
 ```
 
 This template is a fork of [scala-seed.g8](https://github.com/scala/scala-seed.g8)
