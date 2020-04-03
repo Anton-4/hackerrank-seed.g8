@@ -11,7 +11,7 @@ object Solution {
 
         while(curr_line < nr_lines){
 
-            val limit = sc.nextInt()
+            val limit = sc.nextLong()
             println(doIt(limit))
 
             curr_line +=1
@@ -19,8 +19,8 @@ object Solution {
     }
 
 
-    def doIt(limit: BigInt): BigInt = {
-        BigInt(-1)
+    def doIt(limit: Long): Long = {
+        -1
     }
 
 }
